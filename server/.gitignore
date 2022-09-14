@@ -31,3 +31,6 @@ lerna-debug.log*
 
 # Migrations - TypeOrm
 **/**/src/migrations/development
+
+# dotenv environment variables file
+.env
