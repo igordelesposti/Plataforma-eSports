@@ -1,5 +1,12 @@
 # Plataforma-eSports
 
+# Frontend
+
+- Reactjs
+- Vite
+- Tailwind-css
+- Radix-ui
+
 # Backend
 
 - Nodejs
