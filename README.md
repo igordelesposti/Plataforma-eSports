@@ -6,6 +6,8 @@
 - Vite
 - Tailwind-css
 - Radix-ui
+  <!-- Utilizar o keen-slider para fazer carrousel no futuro -->
+  <!-- Validação de form com react-hook-form (zod) front e back -->
 
 # Backend
 
