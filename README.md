@@ -12,3 +12,9 @@
 - Nodejs
 - Prisma (orm)
 - Express (requisições http)
+
+# Mobile
+
+- React Native
+- React Navigation
+- Expo
